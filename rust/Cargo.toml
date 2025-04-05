@@ -1,0 +1,11 @@
+[package]
+name = "state_of_godot_and_the_web_2025_gdextension"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+godot = "0.2.4"
+
