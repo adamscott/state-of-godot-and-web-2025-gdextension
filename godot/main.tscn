@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://8hm2annl854a"]
+
+[ext_resource type="Script" uid="uid://cql7fbxgml5f1" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_ig7tw")
+
+[node name="HelloRust" type="HelloRust" parent="."]

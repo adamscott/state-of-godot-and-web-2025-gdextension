@@ -11,4 +11,5 @@ config_version=5
 [application]
 
 config/name="State of Godot and the Web 2025 GDExtension Example"
+run/main_scene="uid://8hm2annl854a"
 config/features=PackedStringArray("4.5")
